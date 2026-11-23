@@ -1,3 +1,10 @@
+# [0.2.0](https://github.com/langmail/carddav-mcp/compare/v0.1.2...v0.2.0) (2026-11-23)
+
+
+### Features
+
+* return contact relations and omit binary vCard payloads ([#4](https://github.com/langmail/carddav-mcp/issues/4)) ([f34f0f0](https://github.com/langmail/carddav-mcp/commit/f34f0f0fe6baecdcafffb98c0a57d5faa26bfff2))
+
 ## [0.1.2](https://github.com/langmail/carddav-mcp/compare/v0.1.1...v0.1.2) (2026-11-19)
 
 
