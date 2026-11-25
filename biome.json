@@ -6,7 +6,13 @@
 		"useIgnoreFile": true
 	},
 	"files": {
-		"includes": ["**", "!!**/dist", "!!**/.github"]
+		"includes": [
+			"**",
+			"!!**/dist",
+			"!!**/.github",
+			"!!**/.agents",
+			"!skills-lock.json"
+		]
 	},
 	"formatter": {
 		"enabled": true,
